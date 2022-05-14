@@ -2,7 +2,7 @@
 
 ## 📜 Description
 This repository contains solutions for all exercises in Operating Systems course in ECE, NTUA 2021. The course includes the general principles of operating systems such as:
-* Evolution of operating systhems
+* Evolution of operating systems
 * Simultaneous processes
 * Sychronization - communication between processes
 * Scheduling of a central processing unit
